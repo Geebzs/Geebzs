@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geebzs
+- 👋 Hi, I’m @GilbertvdB
 - 👀 I’m interested in learning programming and coding.
 - 🌱 I’m currently learning Python🐍
 - 👍🏼 Tips, suggestions & feedback are highly appreciated. 
